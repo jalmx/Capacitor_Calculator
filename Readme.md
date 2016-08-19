@@ -5,4 +5,4 @@
 * NanoFaradios
 * MicroFaradios
 
-[v](./img/ds1.png)
+[view](https://raw.githubusercontent.com/jalmx89/Capacitor_Calculator/master/imgs/ds1.png)
