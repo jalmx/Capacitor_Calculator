@@ -1,4 +1,4 @@
-#Cálculador para capcitores ceramicos
+# Cálculador para capcitores ceramicos
 
 - Te da el resultado del valor que tiene impreso el capacitor en ceramico en:
 * PicoFaradios
